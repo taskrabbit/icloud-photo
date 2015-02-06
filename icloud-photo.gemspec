@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["brian@bleonard.com"]
   spec.summary       = %q{Uses iPhoto on a Mac to send pictures to iCloud.}
   spec.description   = %q{There seem to be no APIs to upload photos to iCloud, so here is a hack.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/taskrabbit/icloud-photo"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
